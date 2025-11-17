@@ -66,4 +66,4 @@ RecyConnect está dirigido principalmente a:
 ## Autores
 
 - **Gabriel Ferran Espinar Martínez**
-
+- **Mauricio Joao Ramirez Rodriguez**
